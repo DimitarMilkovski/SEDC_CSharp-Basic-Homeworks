@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\bin\Debug\net6.0\SEDC.Class5.OOP.exe
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\bin\Debug\net6.0\SEDC.Class5.OOP.deps.json
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\bin\Debug\net6.0\SEDC.Class5.OOP.runtimeconfig.json
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\bin\Debug\net6.0\SEDC.Class5.OOP.dll
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\bin\Debug\net6.0\SEDC.Class5.OOP.pdb
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.dll
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\refint\SEDC.Class5.OOP.dll
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.pdb
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\SEDC.Class5.OOP.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C# basic\Class5\SEDC.Class5\SEDC.Class5.OOP\obj\Debug\net6.0\ref\SEDC.Class5.OOP.dll
